@@ -1,6 +1,5 @@
 # SyntaxNetTutorial
 
-В данном туториале расматривается:
 
 - Подготовка данных для SyntaxNet
 - Запуск SyntaxNet
