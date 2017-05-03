@@ -8,3 +8,4 @@
 - Отбор синтаксических коллокаций
 - Построение батчей из синтаксических веток
 - WSTM
+[SyntaxNet Docker Image](https://hub.docker.com/r/evgenysmirnov/syntaxnet/)
